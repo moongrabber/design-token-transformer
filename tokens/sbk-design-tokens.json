@@ -1,8 +1,8 @@
 {
   "colors": {
-    "rot": {
+    "grün": {
       "category": "fill",
-      "value": "rgba(252, 5, 83, 1)",
+      "value": "rgba(0, 255, 87, 1)",
       "type": "color"
     }
   }

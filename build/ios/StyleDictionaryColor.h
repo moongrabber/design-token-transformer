@@ -3,14 +3,14 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Fri, 06 Nov 2020 20:36:46 GMT
+// Generated on Fri, 06 Nov 2020 20:45:14 GMT
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorsRot
+ColorsGrun
 };
 
 @interface StyleDictionaryColor : NSObject
