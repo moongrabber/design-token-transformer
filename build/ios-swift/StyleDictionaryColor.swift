@@ -3,11 +3,11 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Fri, 06 Nov 2020 20:49:12 GMT
+// Generated on Fri, 06 Nov 2020 20:52:49 GMT
 //
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let green = rgba(0, 255, 87, 1)
+    public static let blue = rgba(0, 87, 255, 1)
 }
